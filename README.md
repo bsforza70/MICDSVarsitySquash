@@ -1,0 +1,2 @@
+# MICDSVarsitySquash
+Squash Manager
